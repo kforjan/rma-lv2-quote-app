@@ -1,16 +1,25 @@
-# rma_lv2_qouote_app
+# Quote app
 
-A new Flutter project.
+A Flutter application for viewing and saving quotes of inspiring people from computer science made for Mobile Application Development class.
 
-## Getting Started
+## Tasks
+1. *Create an application that allows you to display information about inspiring people from the world of computing. Each person is represented by an object of the InspiringPerson class. The application must have two screens, one that allows you to enter a new person and the other that allows you to display all the people within the scrolling list. Use RecyclerView to display a list of people. Keep people in memory. The display within the list should show a picture of the person, date of birth and possibly death, and a short description (1-2 sentences). Clicking on a person's image should display that person's random quote.*
+* *note: Lisview.builder is Flutter alternative to RecyclerView*
 
-This project is a starting point for a Flutter application.
+2. *Enable deleting people from the list and editing information about people in the list.*
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  1. Clone the repository using the link below:
+  ```
+  https://github.com/kforjan/rma-lv3-bird-count-app.git
+  ```
+  2. Go to the project root and execute the following commands:
+  ```
+  flutter pub get
+  flutter run
+  ```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+![Quote app preview](https://s3.gifyu.com/images/rma-lv2-preview2.gif)
