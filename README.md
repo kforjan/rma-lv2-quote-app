@@ -12,7 +12,7 @@ A Flutter application for viewing and saving quotes of inspiring people from com
 
   1. Clone the repository using the link below:
   ```
-  https://github.com/kforjan/rma-lv3-bird-count-app.git
+  https://github.com/kforjan/rma-lv2-quote-app.git
   ```
   2. Go to the project root and execute the following commands:
   ```
