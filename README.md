@@ -8,6 +8,13 @@ A Flutter application for viewing and saving quotes of inspiring people from com
 
 2. *Enable deleting people from the list and editing information about people in the list.*
 
+## Features
+
+* Display inspiring people and show their quotes on tap
+* Add new inspiring people
+* Edit existing inspiring people
+* Deleting inspiring people from memory
+
 ## Setup
 
   1. Clone the repository using the link below:
